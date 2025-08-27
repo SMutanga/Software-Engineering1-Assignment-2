@@ -9,3 +9,6 @@ double num2 = Convert.ToDouble(Console.ReadLine());
 double sum = num1 + num2;
 
 Console.WriteLine("The sum is: " + sum);
+
+
+Console.WriteLine("My name is Sannah Penelope Mutanga, and this is my project.");
